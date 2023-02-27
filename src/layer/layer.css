@@ -1,0 +1,16 @@
+.layer {
+  transform-origin: 0 0;
+  user-select: none;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background: #5e5ed5;
+}
+.block {
+  left: 50px;
+  top: 50px;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  background: black;
+}
